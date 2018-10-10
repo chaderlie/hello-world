@@ -4,8 +4,8 @@ I am learning how to use git. This is great fun!
 
 Now I am learning how to pull from github. Hopefully it works!
 
-Merging has just got complicated.
 
+Merging has just got complicated.
 
 --
 Chaderlie
