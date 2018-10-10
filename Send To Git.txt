@@ -4,5 +4,7 @@ I am learning how to use git. This is great fun!
 
 Now I am learning how to pull from github. Hopefully it works!
 
+The merge is about to blow up at you.
+
 --
 Chaderlie
